@@ -1,1 +1,1 @@
-First webpage using HTML
+First webpage using basic HTML
